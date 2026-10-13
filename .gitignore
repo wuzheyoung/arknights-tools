@@ -8,4 +8,4 @@ env/
 *.sqlite3
 
 # OCR / 模型大文件视情况忽略
-# easyocr_models/
+easyocr_models/
